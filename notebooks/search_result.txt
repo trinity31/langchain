@@ -1,0 +1,8 @@
+DuckDuckGo Search Results:
+- Ethereum is a decentralized platform enabling smart contracts and powered by the cryptocurrency ether (ETH). Offers a comparison with Bitcoin, details on its proof-of-stake consensus mechanism, and notes on its applications and challenges.
+- Provides links to Ethereum's Whitepaper, latest price, trading information, and market updates.
+
+Wikipedia Search Results:
+Ethereum is a decentralized blockchain platform facilitating smart contract functionality, with Ether (ETH) as its native cryptocurrency. Founded in 2013 by Vitalik Buterin, Ethereum went live in 2015 and is now second only to Bitcoin in terms of market capitalization. It enables users to deploy permanent and immutable decentralized applications, with support for decentralized finance (DeFi), the creation and exchange of non-fungible tokens (NFTs), and the utilization of the ERC-20 token standard for other cryptocurrencies. Following the significant 'Merge' upgrade in September 2022, Ethereum switched from a proof-of-work (PoW) to a proof-of-stake (PoS) consensus mechanism, reducing its energy consumption by 99%.
+
+Vitalik Buterin, one of the co-founders, is spotlighted for his early involvement in cryptocurrency and his pivotal role in the creation of Ethereum. The founding, development phases, and key milestones, such as the transition to proof-of-stake, are detailed extensively. Additionally, it discusses Ethereum Classic, the unaltered continuation of the original Ethereum's history following the DAO incident.
